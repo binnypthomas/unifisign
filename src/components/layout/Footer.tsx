@@ -156,7 +156,7 @@ export const Footer: React.FC = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             {/* Copyright */}
             <div className="text-slate-400 text-sm">
-              <p>© {currentYear} UnifiSign. All rights reserved.</p>
+              <p>© {currentYear} UnifiSign. Built with Bolt.new</p>
               <p className="mt-1">
                 HIPAA Compliant • SOC 2 Type II Certified • ISO 27001 Certified
               </p>
